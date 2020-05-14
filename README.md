@@ -1,6 +1,6 @@
-# MAX7219
+# irreceive
 
-8X8LED
+irreceive
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-MAX7219=github:gchen1996/pxt-max7219
+irreceive=github:gchen1996/pxt-irreceive
 ```
