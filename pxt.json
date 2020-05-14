@@ -1,0 +1,22 @@
+{
+    "name": "IrRemote",
+    "version": "1.0.0",
+    "description": "红外遥控器",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+		"shims.d.ts",
+        "enums.d.ts",
+        "ir.cpp",
+        "ReceiverIR.cpp",
+        "ReceiverIR.h",
+        "RemoteIR.h",
+        "TransmitterIR.cpp",
+        "TransmitterIR.h",
+		"_locales/zh/IrRemote-strings.json"
+    ],
+    "public": true
+}
